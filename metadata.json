@@ -1,0 +1,8 @@
+{
+  "name": "ATS Career Strategist & Optimizer",
+  "description": "Elite AI Career Strategist and ATS Optimization Engine to objectively evaluate resumes against target job descriptions, calculate ATS scores, identify keyword gaps, and tailor applications with absolute factual integrity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
